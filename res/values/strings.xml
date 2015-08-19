@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Man20!</string>
+    <string name="app_name">Man</string>
+<string name="newGame">新游戏</string>
+<string name="pause">暂停</string>
+<string name="start">继续</string>
+</resources>
